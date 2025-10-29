@@ -7,8 +7,9 @@
 @font-face {
   font-family: "Marlene";
 
-  src: url("../fonts/woff2/MarleneGrande-Regular.woff2") format("woff2"),
-    url("../fonts/woff/MarleneGrande-Regular.woff") format("woff");
+  src: url("../fonts/woff2/Marlene-Medium.woff2") format("woff2"),
+    url("../fonts/woff/Marlene-Medium.woff") format("woff"),
+    url("../fonts/ttf/Marlene-Medium.ttf") format("ttf");
   font-weight: 500;
   font-style: normal;
 }
