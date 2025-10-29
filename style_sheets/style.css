@@ -1,0 +1,16 @@
+@import "reset.css";
+
+@import url("https://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700|PT+Sans:400,400i,700,700i&amp;subset=cyrillic");
+
+@import "layout.css";
+
+@font-face {
+  font-family: "Marlene";
+
+  src: local("../Marlene/fonts/woff2/MarleneGrande-Medium.woff2")
+      format("woff2"),
+    local("../Marlene/fonts/woff/MarleneGrande-Medium.woff") format("woff"),
+    local("../Marlene/fonts/ttf/MarleneGrande-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
